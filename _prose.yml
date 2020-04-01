@@ -84,6 +84,13 @@ prose:
             translation_key: metadata_fields.goal_meta_link_text
             value: "UN metadata"
             scope: global
+            
+      - name: "additional_information"
+        field:
+          element: text
+          label: "Additional information"
+          scope: additional_information
+          
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
