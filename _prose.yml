@@ -89,7 +89,7 @@ prose:
         field:
           element: text
           label: "Additional information"
-          scope: additional_information
+          scope: add_info
           
       ######### National Metadata #########
       - name: "national_indicator_available"
